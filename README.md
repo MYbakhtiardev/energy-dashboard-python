@@ -79,16 +79,6 @@ energy-dashboard/
 
 ---
 
-## 📸 Screenshot (Optional)
-
-*Add this if you have a preview image of your dashboard*
-
-```
-![Dashboard Screenshot](screenshot.png)
-```
-
----
-
 ## 👨‍💻 Author
 
 **Muhammad Bakhtiar Bin Yusof**
